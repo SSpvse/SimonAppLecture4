@@ -1,0 +1,9 @@
+/server/node_modules/
+/.idea/
+node_modules
+
+/client/.parcel-cache/
+/client/dist/
+/server/package-lock.json
+/client/package-lock.json
+/server/node_modules
